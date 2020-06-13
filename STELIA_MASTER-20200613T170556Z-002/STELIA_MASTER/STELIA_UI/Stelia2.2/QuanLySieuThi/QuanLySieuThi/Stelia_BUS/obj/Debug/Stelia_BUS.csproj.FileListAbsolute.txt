@@ -1,0 +1,50 @@
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_BUS\bin\Debug\QLBH.mdf
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_BUS\bin\Debug\QLBH_log.ldf
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_BUS.dll
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_BUS.pdb
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_DAL.dll
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_DTO.dll
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_DAL.pdb
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_DTO.pdb
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_BUS\obj\Debug\Stelia_BUS.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_BUS\obj\Debug\Stelia_BUS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_BUS\obj\Debug\Stelia_BUS.csproj.CopyComplete
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_BUS\obj\Debug\Stelia_BUS.dll
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_BUS\obj\Debug\Stelia_BUS.pdb
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_BUS\bin\Debug\QLBH.mdf
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_BUS\bin\Debug\QLBH_log.ldf
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_BUS.dll
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_BUS.pdb
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_DAL.dll
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_DTO.dll
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_DAL.pdb
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_DTO.pdb
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_BUS\obj\Debug\Stelia_BUS.csprojAssemblyReference.cache
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_BUS\obj\Debug\Stelia_BUS.csproj.CopyComplete
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_BUS\obj\Debug\Stelia_BUS.dll
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_BUS\obj\Debug\Stelia_BUS.pdb
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_BUS\bin\Debug\QLBH.mdf
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_BUS\bin\Debug\QLBH_log.ldf
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_BUS.dll
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_BUS.pdb
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_DAL.dll
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_DTO.dll
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_DAL.pdb
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_DTO.pdb
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_BUS\obj\Debug\Stelia_BUS.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_BUS\obj\Debug\Stelia_BUS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_BUS\obj\Debug\Stelia_BUS.csproj.CopyComplete
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_BUS\obj\Debug\Stelia_BUS.dll
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_BUS\obj\Debug\Stelia_BUS.pdb
+D:\Visual Studio\QuanLySieuThi4\QuanLySieuThi\Stelia_BUS\bin\Debug\QLBH.mdf
+D:\Visual Studio\QuanLySieuThi4\QuanLySieuThi\Stelia_BUS\bin\Debug\QLBH_log.ldf
+D:\Visual Studio\QuanLySieuThi4\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_BUS.dll
+D:\Visual Studio\QuanLySieuThi4\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_BUS.pdb
+D:\Visual Studio\QuanLySieuThi4\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_DAL.dll
+D:\Visual Studio\QuanLySieuThi4\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_DTO.dll
+D:\Visual Studio\QuanLySieuThi4\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_DAL.pdb
+D:\Visual Studio\QuanLySieuThi4\QuanLySieuThi\Stelia_BUS\bin\Debug\Stelia_DTO.pdb
+D:\Visual Studio\QuanLySieuThi4\QuanLySieuThi\Stelia_BUS\obj\Debug\Stelia_BUS.csprojAssemblyReference.cache
+D:\Visual Studio\QuanLySieuThi4\QuanLySieuThi\Stelia_BUS\obj\Debug\Stelia_BUS.csproj.CopyComplete
+D:\Visual Studio\QuanLySieuThi4\QuanLySieuThi\Stelia_BUS\obj\Debug\Stelia_BUS.dll
+D:\Visual Studio\QuanLySieuThi4\QuanLySieuThi\Stelia_BUS\obj\Debug\Stelia_BUS.pdb

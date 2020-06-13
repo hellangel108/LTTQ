@@ -1,0 +1,93 @@
+C:\Users\ASUS\source\repos\Stelia_DAL\Stelia_DAL\bin\Debug\QLBH.mdf
+C:\Users\ASUS\source\repos\Stelia_DAL\Stelia_DAL\bin\Debug\QLBH_log.ldf
+C:\Users\ASUS\source\repos\Stelia_DAL\Stelia_DAL\bin\Debug\Stelia_DAL.dll
+C:\Users\ASUS\source\repos\Stelia_DAL\Stelia_DAL\bin\Debug\Stelia_DAL.pdb
+C:\Users\ASUS\source\repos\Stelia_DAL\Stelia_DAL\obj\Debug\Stelia_DAL.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Stelia_DAL\Stelia_DAL\obj\Debug\Stelia_DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Stelia_DAL\Stelia_DAL\obj\Debug\Stelia_DAL.dll
+C:\Users\ASUS\source\repos\Stelia_DAL\Stelia_DAL\obj\Debug\Stelia_DAL.pdb
+D:\Visual Studio\Stelia_DAL\Stelia_DAL\obj\Debug\Stelia_DAL.csprojAssemblyReference.cache
+D:\Visual Studio\Stelia_DAL\Stelia_DAL\obj\Debug\Stelia_DAL.dll
+D:\Visual Studio\Stelia_DAL\Stelia_DAL\obj\Debug\Stelia_DAL.pdb
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_DAL\bin\Debug\QLBH.mdf
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_DAL\bin\Debug\QLBH_log.ldf
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DAL.dll
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DAL.pdb
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DTO.dll
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DTO.pdb
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.csproj.CopyComplete
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.dll
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.pdb
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_DAL\bin\Debug\QLBH.mdf
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_DAL\bin\Debug\QLBH_log.ldf
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DAL.dll
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DAL.pdb
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DTO.dll
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DTO.pdb
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.csprojAssemblyReference.cache
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.csproj.CopyComplete
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.dll
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.pdb
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_DAL\bin\Debug\QLBH.mdf
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_DAL\bin\Debug\QLBH_log.ldf
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DAL.dll
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DAL.pdb
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DTO.dll
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DTO.pdb
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.csproj.CopyComplete
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.dll
+C:\Users\DELL\Downloads\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.pdb
+D:\Visual Studio\QuanLySieuThi4\QuanLySieuThi\Stelia_DAL\bin\Debug\QLBH.mdf
+D:\Visual Studio\QuanLySieuThi4\QuanLySieuThi\Stelia_DAL\bin\Debug\QLBH_log.ldf
+D:\Visual Studio\QuanLySieuThi4\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DAL.dll
+D:\Visual Studio\QuanLySieuThi4\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DAL.pdb
+D:\Visual Studio\QuanLySieuThi4\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DTO.dll
+D:\Visual Studio\QuanLySieuThi4\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DTO.pdb
+D:\Visual Studio\QuanLySieuThi4\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.csprojAssemblyReference.cache
+D:\Visual Studio\QuanLySieuThi4\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.csproj.CopyComplete
+D:\Visual Studio\QuanLySieuThi4\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.dll
+D:\Visual Studio\QuanLySieuThi4\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.pdb
+D:\Visual Studio\QuanLySieuThi5\QuanLySieuThi\Stelia_DAL\bin\Debug\QLBH.mdf
+D:\Visual Studio\QuanLySieuThi5\QuanLySieuThi\Stelia_DAL\bin\Debug\QLBH_log.ldf
+D:\Visual Studio\QuanLySieuThi5\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DAL.dll
+D:\Visual Studio\QuanLySieuThi5\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DAL.pdb
+D:\Visual Studio\QuanLySieuThi5\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DTO.dll
+D:\Visual Studio\QuanLySieuThi5\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DTO.pdb
+D:\Visual Studio\QuanLySieuThi5\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.csproj.CopyComplete
+D:\Visual Studio\QuanLySieuThi5\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.dll
+D:\Visual Studio\QuanLySieuThi5\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.pdb
+D:\Visual Studio\QuanLySieuThi5\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.csprojAssemblyReference.cache
+D:\Visual Studio\QuanLySieuThi6\QuanLySieuThi\Stelia_DAL\bin\Debug\QLBH.mdf
+D:\Visual Studio\QuanLySieuThi6\QuanLySieuThi\Stelia_DAL\bin\Debug\QLBH_log.ldf
+D:\Visual Studio\QuanLySieuThi6\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DAL.dll
+D:\Visual Studio\QuanLySieuThi6\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DAL.pdb
+D:\Visual Studio\QuanLySieuThi6\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DTO.dll
+D:\Visual Studio\QuanLySieuThi6\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DTO.pdb
+D:\Visual Studio\QuanLySieuThi6\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.csprojAssemblyReference.cache
+D:\Visual Studio\QuanLySieuThi6\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.csproj.CopyComplete
+D:\Visual Studio\QuanLySieuThi6\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.dll
+D:\Visual Studio\QuanLySieuThi6\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.pdb
+D:\Visual Studio\QuanLySieuThi7\QuanLySieuThi\Stelia_DAL\bin\Debug\QLBH.mdf
+D:\Visual Studio\QuanLySieuThi7\QuanLySieuThi\Stelia_DAL\bin\Debug\QLBH_log.ldf
+D:\Visual Studio\QuanLySieuThi7\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DAL.dll
+D:\Visual Studio\QuanLySieuThi7\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DAL.pdb
+D:\Visual Studio\QuanLySieuThi7\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DTO.dll
+D:\Visual Studio\QuanLySieuThi7\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DTO.pdb
+D:\Visual Studio\QuanLySieuThi7\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.csprojAssemblyReference.cache
+D:\Visual Studio\QuanLySieuThi7\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.csproj.CopyComplete
+D:\Visual Studio\QuanLySieuThi7\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.dll
+D:\Visual Studio\QuanLySieuThi7\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.pdb
+D:\Visual Studio\QuanLySieuThiF\QuanLySieuThi\Stelia_DAL\bin\Debug\QLBH.mdf
+D:\Visual Studio\QuanLySieuThiF\QuanLySieuThi\Stelia_DAL\bin\Debug\QLBH_log.ldf
+D:\Visual Studio\QuanLySieuThiF\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DAL.dll
+D:\Visual Studio\QuanLySieuThiF\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DAL.pdb
+D:\Visual Studio\QuanLySieuThiF\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DTO.dll
+D:\Visual Studio\QuanLySieuThiF\QuanLySieuThi\Stelia_DAL\bin\Debug\Stelia_DTO.pdb
+D:\Visual Studio\QuanLySieuThiF\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.csprojAssemblyReference.cache
+D:\Visual Studio\QuanLySieuThiF\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.csproj.CopyComplete
+D:\Visual Studio\QuanLySieuThiF\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.dll
+D:\Visual Studio\QuanLySieuThiF\QuanLySieuThi\Stelia_DAL\obj\Debug\Stelia_DAL.pdb

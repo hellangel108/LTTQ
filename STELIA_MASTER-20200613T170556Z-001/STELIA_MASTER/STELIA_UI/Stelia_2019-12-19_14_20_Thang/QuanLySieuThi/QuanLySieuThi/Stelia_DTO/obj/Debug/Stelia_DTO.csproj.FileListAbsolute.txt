@@ -1,0 +1,16 @@
+D:\Visual Studio\Stelia_DAL\Stelia_DTO\bin\Debug\Stelia_DTO.dll
+D:\Visual Studio\Stelia_DAL\Stelia_DTO\bin\Debug\Stelia_DTO.pdb
+D:\Visual Studio\Stelia_DAL\Stelia_DTO\obj\Debug\Stelia_DTO.csprojAssemblyReference.cache
+D:\Visual Studio\Stelia_DAL\Stelia_DTO\obj\Debug\Stelia_DTO.dll
+D:\Visual Studio\Stelia_DAL\Stelia_DTO\obj\Debug\Stelia_DTO.pdb
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_DTO\bin\Debug\Stelia_DTO.dll
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_DTO\bin\Debug\Stelia_DTO.pdb
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_DTO\obj\Debug\Stelia_DTO.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_DTO\obj\Debug\Stelia_DTO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_DTO\obj\Debug\Stelia_DTO.dll
+C:\Users\DELL\Desktop\QuanLySieuThi\Stelia_DTO\obj\Debug\Stelia_DTO.pdb
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_DTO\bin\Debug\Stelia_DTO.dll
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_DTO\bin\Debug\Stelia_DTO.pdb
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_DTO\obj\Debug\Stelia_DTO.csprojAssemblyReference.cache
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_DTO\obj\Debug\Stelia_DTO.dll
+D:\Visual Studio\QuanLySieuThi2\QuanLySieuThi\Stelia_DTO\obj\Debug\Stelia_DTO.pdb
